@@ -18,4 +18,5 @@ empower spreadsheet nerds to make games
 - the spreadsheet-er can also easily partner with other artists / engineers that knows Unity
 - as much as possible re-use existing functionality of Unity, not making wrappers over every single Unity API
 - likely would be making much use of dragging and dropping references around Unity
+- likely will be using code-gen techniques, good for performance and also facilitates dragging references, and creating components
 
